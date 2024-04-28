@@ -33,8 +33,12 @@ accommodate the scale of global finance, with near-instant transaction finality.
 
 ## Table of Contents
 
+- [Whitepapers](#whitepapers)
 - [Wallets](#wallets)
 - [Explorers](#explorers)
+
+## Whitepapers
+- [Avalanche Platform Whitepaper](https://assets-global.website-files.com/5d80307810123f5ffbb34d6e/6008d7bbf8b10d1eb01e7e16_Avalanche%20Platform%20Whitepaper.pdf)
 
 ## Wallets
 - [Core](https://core.app/tools/)
