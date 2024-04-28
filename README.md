@@ -31,8 +31,19 @@ accommodate the scale of global finance, with near-instant transaction finality.
 - Permissionless and permissioned custom blockchains deployed as an Avalanche Subnets can include custom
   rulesets designed to be compliant with legal and jurisdictional considerations.
 
-
-
 ## Table of Contents
+
+- [Wallets](#wallets)
+- [Explorers](#explorers)
+
+## Wallets
+- [Core](https://core.app/tools/)
+
+## Explorers
+- [avascan](https://avascan.info/)
+- [snowtrace](https://snowtrace.io/)
+- [snowscan](https://snowscan.xyz/)
+
+
 
 
