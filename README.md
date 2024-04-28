@@ -2,7 +2,7 @@
 
 Avalanche is an open-source platform for building decentralized applications in one
 interoperable, decentralized, and highly scalable ecosystem.
-Powered by [a uniquely powerful consensus mechanism](/learn/avalanche/avalanche-consensus.md),
+Powered by [a uniquely powerful consensus mechanism](https://docs.avax.network/learn/avalanche/avalanche-consensus),
 Avalanche is the first ecosystem designed to
 accommodate the scale of global finance, with near-instant transaction finality.
 
@@ -43,6 +43,11 @@ accommodate the scale of global finance, with near-instant transaction finality.
 - [avascan](https://avascan.info/)
 - [snowtrace](https://snowtrace.io/)
 - [snowscan](https://snowscan.xyz/)
+- [Avalanche Explorer](https://subnets.avax.network/)
+- [Vscout](https://vscout.io/)
+- [snowpeer](https://snowpeer.io/)
+
+## 
 
 
 
