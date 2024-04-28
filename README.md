@@ -33,8 +33,6 @@ accommodate the scale of global finance, with near-instant transaction finality.
 
 
 
-**Table of Contents**
+## Table of Contents
 
-[TOCM]
 
-[TOC]
