@@ -33,9 +33,17 @@ accommodate the scale of global finance, with near-instant transaction finality.
 
 ## Table of Contents
 
+- [About Avalanche](#about-avalanche)
 - [Whitepapers](#whitepapers)
 - [Wallets](#wallets)
 - [Explorers](#explorers)
+
+## About Avalanche
+- [Official Documentaion](https://docs.avax.network)
+- [Twitter](https://twitter.com/avax)
+- [Youtube](https://www.youtube.com/Avalancheavax)
+- [LinkedIn](https://www.linkedin.com/company/avalancheavax)
+- [Reddit](https://www.reddit.com/r/Avax/)
 
 ## Whitepapers
 - [Avalanche Platform Whitepaper](https://assets-global.website-files.com/5d80307810123f5ffbb34d6e/6008d7bbf8b10d1eb01e7e16_Avalanche%20Platform%20Whitepaper.pdf)
@@ -53,9 +61,4 @@ accommodate the scale of global finance, with near-instant transaction finality.
 - [Avalanche Explorer](https://subnets.avax.network/)
 - [Vscout](https://vscout.io/)
 - [snowpeer](https://snowpeer.io/)
-
-## 
-
-
-
 
